@@ -44,7 +44,7 @@ result:
 
     $ ./s3.rb help
     
-Result:    
+result:    
     
     s3.rb bucket          # Finds an S3 bucket (and url with --url)
     s3.rb create_object   # Creates an object in your bucket
