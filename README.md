@@ -1,6 +1,6 @@
 ## AWS::S3 Command Line Tool
 
-A simple example of a command line tool with Thor. For learning purposes only - not for actual use.
+A simple example of a command line tool with Thor (_for learning purposes_).
 
 ### Find a bucket in Amazon S3
 
